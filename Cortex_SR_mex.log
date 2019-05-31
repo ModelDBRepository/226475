@@ -1,0 +1,490 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/MacPorts 2015_11) (preloaded format=mex 2017.1.19)  4 APR 2017 10:55
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**Cortex_SR_mex.cpp -o main
+(./Cortex_SR_mex.cpp
+This is MeX  Version 1.05  18 XII 1993  (B. Jackowski & M. Ry\'cko)
+Missing character: There is no Ã in font plr10!
+Missing character: There is no ¼ in font plr10!
+! Missing $ inserted.
+<inserted text> 
+                $
+<to be read again> 
+                   _
+l.32 ...XFLAGS="\$CXXFLAGS -std=c++11 -O3" Cortex_
+                                                  SR_mex.cpp                 */
+
+? q
+OK, entering \batchmode...
+! You can't use `macro parameter character #' in math mode.
+l.36 #
+      include "mex.h"
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in math mode.
+l.37 #
+      include "matrix.h"
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+<to be read again> 
+                   \par 
+l.38 
+     
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+Overfull \hbox (11.07967pt too wide) in paragraph at lines 29--38
+[]\tenrm /*********************************************************************
+*********/ /* Im-ple-men-|
+
+\hbox(7.5+2.5)x469.75499, glue set - 1.0
+.\hbox(0.0+0.0)x20.0
+.\tenrm /
+.\tenrm *
+.\tenrm *
+.\tenrm *
+.etc.
+
+! You can't use `macro parameter character #' in vertical mode.
+l.39 #
+      include <iterator>
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in horizontal mode.
+l.40 #
+      include <vector>
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in vertical mode.
+l.42 #
+      include "Cortical_Column.h"
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+<to be read again> 
+                   _
+l.42 #include "Cortical_
+                        Column.h"
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! You can't use `macro parameter character #' in math mode.
+l.43 #
+      include "Data_Storage.h"
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in math mode.
+l.44 #
+      include "ODE.h"
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in math mode.
+l.45 #
+      include "Sleep_Regulation.h"
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+<to be read again> 
+                   \par 
+l.47 
+     
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+Overfull \hbox (26.7167pt too wide) in paragraph at lines 42--47
+[]\tenrm include "Cortical$[]\teni olumn:h\tenrm "\teni include\tenrm "\teni Da
+ta[]torage:h\tenrm "\teni include\tenrm "\teni ODE:h\tenrm "\teni include\tenrm
+ "\teni Sleep[]egulation:h\tenrm "\teni mxArray \tensy ^^C|
+
+\hbox(6.94444+1.94444)x469.75499, glue set - 1.0
+.\hbox(0.0+0.0)x20.0
+.\tenrm i
+.\tenrm n
+.\tenrm c
+.\tenrm l
+.etc.
+
+
+Overfull \hbox (1.55186pt too wide) in paragraph at lines 48--56
+[]\tenrm /*********************************************************************
+*********/ /* Fi-xed si-|
+
+\hbox(7.5+2.5)x469.75499, glue set - 1.0
+.\hbox(0.0+0.0)x20.0
+.\tenrm /
+.\tenrm *
+.\tenrm *
+.\tenrm *
+.etc.
+
+
+Overfull \hbox (18.96863pt too wide) in paragraph at lines 48--56
+\tenrm mu-la-tion set-tings */ /***********************************************
+*******************************/|
+
+\hbox(7.5+2.5)x469.75499, glue set - 1.0
+.\tenrm m
+.\kern-0.27779
+.\tenrm u
+.\discretionary
+..\tenrm -
+.\tenrm l
+.etc.
+
+
+Overfull \hbox (202.8578pt too wide) in paragraph at lines 57--65
+\tenrm tion ro-utine */ /* lhs de-fi-nes out-puts */ /* rhs de-fi-nes in-puts *
+/ /****************************************************************************
+**/|
+
+\hbox(7.5+2.5)x469.75499, glue set - 1.0
+.\tenrm t
+.\tenrm i
+.\tenrm o
+.\tenrm n
+.\glue 3.33333 plus 1.66666 minus 1.11111
+.etc.
+
+
+Overfull \hbox (31.52377pt too wide) in paragraph at lines 57--65
+\tenrm void me-xFunc-tion(int nlhs, mxAr-ray *plhs[], int nrhs, const mxAr-ray 
+*prhs[])  /* Set the seed */ srand(time(NULL)); |
+
+\hbox(7.5+2.5)x469.75499, glue set - 1.0
+.\tenrm v
+.\kern-0.27779
+.\tenrm o
+.\tenrm i
+.\tenrm d
+.etc.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+<to be read again> 
+                   _
+l.69     double* Param_
+                       SR		= mxGetPr (prhs[1]);			/* Parameters of cortical ...
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+<to be read again> 
+                   \par 
+l.70 
+     
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+<to be read again> 
+                   _
+l.72     Cortical_
+                  Column Cortex  = Cortical_Column();
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+<to be read again> 
+                   \par 
+l.74 
+     
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+<to be read again> 
+                   _
+l.76     Cortex.connect_
+                        SR(SR);
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+<to be read again> 
+                   \par 
+l.77 
+     
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+<to be read again> 
+                   _
+l.81     dataArray.push_
+                        back(SetMexArray(1, T*res/red));	// Vp
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+<to be read again> 
+                   \par 
+l.92 
+     
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+Overfull \hbox (215.63869pt too wide) in paragraph at lines 78--92
+\tenrm dataArray.push$[]\teni ack\tenrm (\teni SetMexArray\tenrm (1\teni ; T \t
+ensy ^^C \teni res=red\tenrm )); \teni ==VpdataArray:push[]ack\tenrm (\teni Set
+MexArray\tenrm (1\teni ; T \tensy ^^C \teni res=red\tenrm )); \teni ==NadataArr
+ay:push[]ack\tenrm (\teni SetMexArray\tenrm (1\teni ; T \tensy ^^C|
+
+\hbox(7.5+2.5)x469.75499, glue set - 1.0
+.\tenrm d
+.\tenrm a
+.\tenrm t
+.\tenrm a
+.\tenrm A
+.etc.
+
+
+Overfull \hbox (35.4658pt too wide) in paragraph at lines 78--92
+\teni res=red\tenrm )); \teni ==f[]dataArray:push[]ack\tenrm (\teni SetMexArray
+\tenrm (1\teni ; T \tensy ^^C \teni res=red\tenrm )); \teni ==f[]dataArray:push
+[]ack\tenrm (\teni SetMexArray\tenrm (1\teni ; T \tensy ^^C|
+
+\hbox(7.5+2.5)x469.75499, glue set - 1.0
+.\teni r
+.\kern0.27779
+.\teni e
+.\teni s
+.\teni =
+.etc.
+
+
+Overfull \hbox (34.35085pt too wide) in paragraph at lines 78--92
+\teni res=red\tenrm )); \teni ==f[]dataArray:push[]ack\tenrm (\teni SetMexArray
+\tenrm (1\teni ; T \tensy ^^C \teni res=red\tenrm )); \teni ==C[]dataArray:push
+[]ack\tenrm (\teni SetMexArray\tenrm (1\teni ; T \tensy ^^C|
+
+\hbox(7.5+2.5)x469.75499, glue set - 1.0
+.\teni r
+.\kern0.27779
+.\teni e
+.\teni s
+.\teni =
+.etc.
+
+
+Overfull \hbox (36.52644pt too wide) in paragraph at lines 78--92
+\teni res=red\tenrm )); \teni ==C[]dataArray:push[]ack\tenrm (\teni SetMexArray
+\tenrm (1\teni ; T \tensy ^^C \teni res=red\tenrm )); \teni ==C[]dataArray:push
+[]ack\tenrm (\teni SetMexArray\tenrm (1\teni ; T \tensy ^^C|
+
+\hbox(7.5+2.5)x469.75499, glue set - 1.0
+.\teni r
+.\kern0.27779
+.\teni e
+.\teni s
+.\teni =
+.etc.
+
+
+Overfull \hbox (41.644pt too wide) in paragraph at lines 78--92
+\teni res=red\tenrm )); \teni ==hdataArray:push[]ack\tenrm (\teni SetMexArray\t
+enrm (1\teni ; T \tensy ^^C \teni res=red\tenrm )); \teni ==g[]NadataArray:push
+[]ack\tenrm (\teni SetMexArray\tenrm (1\teni ; T \tensy ^^C|
+
+\hbox(7.5+2.5)x469.75499, glue set - 1.0
+.\teni r
+.\kern0.27779
+.\teni e
+.\teni s
+.\teni =
+.etc.
+
+! Misplaced alignment tab character &.
+l.96     for (auto &
+                    dataptr : dataArray) {
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+<to be read again> 
+                   _
+l.97         dataPointer.push_
+                              back(mxGetPr(dataptr));
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Extra }, or forgotten $.
+l.98     }
+          
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+<to be read again> 
+                   \par 
+l.99 
+     
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Misplaced alignment tab character &.
+l.104         if(t >= onset*res &
+                                 & t%red == 0){
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced alignment tab character &.
+l.104         if(t >= onset*res &&
+                                   t%red == 0){
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+<to be read again> 
+                   _
+l.105             get_
+                      data(count, Cortex, SR, dataPointer);
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Extra }, or forgotten $.
+l.107         }
+               
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+! Extra }, or forgotten $.
+l.108     }
+           
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+<to be read again> 
+                   \par 
+l.109 
+      
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Misplaced alignment tab character &.
+l.112     for (auto &
+                     dataptr : dataArray) {
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced alignment tab character &.
+l.113         plhs[std::distance(&
+                                  dataptr, dataArray.data())] = dataptr;
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+
+Overfull \hbox (57.35713pt too wide) in paragraph at lines 110--115
+[]\tenrm /* Re-turn the data con-ta-iners */ nlhs = da-ta-Ar-ray.size()+1; for 
+(auto da-taptr : da-ta-Ar-ray)  plhs[std::distance(dataptr,|
+
+\hbox(7.5+2.5)x469.75499, glue set - 1.0
+.\hbox(0.0+0.0)x20.0
+.\tenrm /
+.\tenrm *
+.\glue 3.33333 plus 1.66666 minus 1.11111
+.\tenrm R
+.etc.
+
+! You can't use `macro parameter character #' in horizontal mode.
+l.126     #
+           pragma omp critical
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+)
+! Emergency stop.
+<*> Cortex_SR_mex.cpp -o main
+                             
+*** (job aborted, no legal \end found)
+
+No pages of output.
